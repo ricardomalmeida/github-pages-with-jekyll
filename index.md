@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Bem Vindo ao meu  blog
 
-I'm glad you are here. I plan to talk about ...
+A seguir outro pasito.
+Este vai ser o espaço do meu blog pessoal / profissional.
+Tenciono falar de experiências profissionais e partilhar ...
